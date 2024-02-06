@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "Prestige Tree Rewritten",
-	id: "ptr",
-	author: "Jacorb",
-	pointsName: "points",
+	name: "Twitter Prestige Tree",
+	id: "vicle",
+	author: "Vic",
+	pointsName: "ratio",
 	discordName: "PT Rewritten Server",
 	discordLink: "https://discord.gg/TFCHJJT",
 	changelogLink: "https://github.com/Jacorb90/Prestige-Tree/blob/master/changelog.md",
